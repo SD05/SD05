@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Sahu</h1>
-<h3 align="center">An accomplished professional delivering over 3 years of expertise in Full Stack Development. My dexterity lies in Web Application Development (ReactJS, Front-end Development and JavaScript Workflow Management) with rich experience in preparing technical specifications according to client’s needs and suggesting improvements to existing. Demonstrated excellence in project execution using Agile/Scrum Methodology with skills in contributing in project teams and maintaining high-quality deliverables within time and budgetary parameters.</h3>
+<h3 align="center">An accomplished professional delivering over 4 years of expertise in Full Stack Development. My dexterity lies in Web Application Development (ReactJS, Front-end Development and JavaScript Workflow Management) with rich experience in preparing technical specifications according to client’s needs and suggesting improvements to existing. Demonstrated excellence in project execution using Agile/Scrum Methodology with skills in contributing in project teams and maintaining high-quality deliverables within time and budgetary parameters.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
